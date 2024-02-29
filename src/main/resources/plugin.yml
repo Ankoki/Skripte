@@ -1,0 +1,7 @@
+name: Skripte
+api-version: 1.13
+version: 1.0
+depend:
+  - TokenEnchant
+main: com.ankoki.skripte.Skripte
+author: Ankoki
